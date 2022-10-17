@@ -1,5 +1,5 @@
 name: Github Action Hello world
-on: push
+on: push 
 jobs:
   Hello-World:
     runs-on: ubuntu-latest
